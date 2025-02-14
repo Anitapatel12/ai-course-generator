@@ -43,8 +43,9 @@
     "youtube": "^0.1.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.20",
     "drizzle-kit": "^0.24.2",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "postcss": "^8.5.2",
+    "tailwindcss": "^3.4.17"
   }
 }
